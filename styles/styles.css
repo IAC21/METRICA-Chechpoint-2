@@ -1,0 +1,160 @@
+body {
+  background-color:white;
+  max-width: 100%;
+  font-family: "Manrope", sans-serif;
+}
+
+.container {
+  padding: 0  15px;
+  max-width: 1180px;
+  margin:0 auto; 
+
+}
+
+h1 {
+  width: 956px;
+  margin-bottom: 30px;
+  font-size: 60px;
+  font-weight: 400;
+  line-height: 60px;
+  letter-spacing: -0.03em;
+  text-align: left;
+}
+
+.interior {
+  position: relative;
+  box-sizing: border-box;
+  background-image: url(../images/Stul.png);
+  height: 500px;
+  max-width: 1150px;
+  padding-left: 127px;
+  
+
+}
+
+.box>p {
+  position: absolute;
+  width: 430px;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 27.32px;
+  color: white;
+  letter-spacing: -0.03em;
+  left: 40px;
+  bottom: 40px;
+   margin: 0;
+}
+
+h2 {
+
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.59px;
+  letter-spacing: -0.03em;
+  text-align: left;
+  padding-top: 150px;
+}
+
+p.description {
+  font-size: 45px;
+  font-weight: 400;
+  line-height: 61.47px;
+  letter-spacing: -0.03em;
+  text-align: left;
+  margin-top: 30px;
+  width: 1151px;
+  
+}
+
+a {
+  display: inline-block;
+  margin-top: 30px;
+  padding: 20px 40px;
+  background-color: #ad1818;
+  color: #ffffff;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.project {
+  margin: 0 auto;
+  width: 1400px;
+  background: #ffffff;
+  padding-left: 125px;
+  padding-right: 125px;
+  /* padding-bottom: 150px; */
+}
+
+.img-project {
+  display: block;
+  height: 450px;
+}
+
+.project-title {
+  font-family: Manrope;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 40.98px;
+  letter-spacing: -0.03em;
+  text-align: left;
+  padding-top: 15px;
+}
+.in-detail{
+  background: none;
+  color: #ad1818;
+  font-size: 20px;
+  line-height: 27.32px;
+ margin: 0;
+  height: 27px;
+  font-weight: 400px ;
+  padding-left: 2px;
+  padding-top: 15px;
+  margin-bottom: 90px;
+}
+
+/* .item-project>.project-btn{
+ 
+} */
+.project-btn{
+  background-color: white;
+  color: #ad1818;
+  border-color: #ad1818;
+  border-radius: 5px;
+  width: 100% ;
+  height: 153px;
+  font-size: 30px;
+   cursor: pointer;
+    margin-top: 0x;
+    padding: 0;
+    margin-bottom: 150px;
+
+}
+.project-btn:hover{
+  color:  #ffffff;
+  background-color: #ad1818;
+}
+
+.services{
+    background-color: #121212;
+    margin: 0 auto;
+    width: 1400px;
+    height:1844px ;
+       color: #ffffff;
+}
+
+.list-of-services{
+   padding-left: 125px;
+/* padding-bottom: 150px; */
+}
+.img-services {
+  display: block;
+  width: 270;
+  padding-top: 60px;
+  }
+  /* .project-title-last{
+    margin-bottom: 150px;
+  } */
+
+  /* .list-of-services:nth-last-child(1){
+    margin-bottom: 150px;
+  } */
